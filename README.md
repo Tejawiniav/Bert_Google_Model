@@ -6,3 +6,4 @@ From sklearn.model_selection import train_test_split to split train and test tex
 when model is running i am getting:-
 ERROR:root:Internal Python error in the inspect module.
 Which is the CPU progrmmed error.
+I wrote a code to evaluate and predict the accuracy functions. 
